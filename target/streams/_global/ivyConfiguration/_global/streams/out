@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://repo.justwrote.it/releases/'; switch to HTTPS or opt-in as ("justwrote" at "http://repo.justwrote.it/releases/").withAllowInsecureProtocol(true)
