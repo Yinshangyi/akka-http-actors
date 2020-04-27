@@ -1,4 +1,4 @@
-# akka-http-actors
+# Concurrent Rest API in Scala with Akka
 Simple Stateful Rest API with Akka-HTTP using Actors
 
 This project is a simple API developed with akka-http in Scala. It has been inspired from an exercice from a Scala training program.  
